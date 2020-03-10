@@ -1,0 +1,269 @@
+body
+{margin:0px;padding:0px;}
+#topnav{
+	width:100%;
+	margin:0px;
+	background-color:blue;
+}
+#nav2{
+	text-align:right;
+	padding-right:50px;
+}
+#nav2 a{
+	text-decoration:none;
+	color:white;
+	padding:20px;
+}
+#help{
+	padding-left:80;
+	padding-top:10px;
+	color:white;
+}
+#topnav2{
+	width:100%;
+	margin:0px;
+	background-color:darkblue;
+	
+}
+#new{padding-left:80px;
+padding-bottom:0px;
+padding-top:10px;
+font-size:30px;
+color:white;
+}
+#new h1{margin:0px;}
+#nav3{
+	text-align:left;
+}
+#nav3 a{
+	text-decoration:none;
+	color:white;
+	padding:20px;
+}
+#center img{width:100%;
+height:550px;}
+
+#sec2{
+	margin:0px;
+}
+#imag{
+	margin:40px;
+	width:100%;
+	
+}
+.shop{
+	text-align:center;
+	margin:0px 50px;
+	box-sizing:border-box;
+}
+.p1{
+   	text-align:center;
+	color:blue;
+}
+#imag img{
+	//margin-left:70px;
+}
+#imag p{
+margin:0px;padding:0px;}
+
+#b1{
+	height:30px;
+	width:100px;
+	border:1px orange solid;
+	color:blue;
+	background-color:white;
+}
+.bord{border:1px solid white;
+width:75%;
+padding-bottom:10px;
+box-shadow:4px 4px 4px 4px #eee;}
+
+#sec2 h1{
+	text-align:center;
+	font-size:40px;color:blue;
+	margin:0px;
+}
+#dis{margin:0px 50px;}
+#discount{
+width:100%;
+ height:100%;
+}
+#dis #td1{background-image:url(images/img6.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;
+} 
+#dis #td2{background-image:url(images/img7.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;} 
+#dis #td3{background-image:url(images/img8.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;} 
+#dis #td4{background-image:url(images/img9.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;} 
+#dis #td5{background-image:url(images/img10.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;} 
+#dis #td6{background-image:url(images/img11.jpg);
+background-repeat:no-repeat;
+background-size:50% 50%;
+background-position:center;
+position:relative;} 
+#discount h1{
+	color:white;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	opacity:0.5;
+	bottom:80px;
+	background-color:blue;
+}
+#discount #td1 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+#discount #td2 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+#discount #td3 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+#discount #td4 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+#discount #td5 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+#discount #td6 h2{
+padding:15px;
+position:absolute;
+right:60px;
+top:60px;
+border:2px;
+border-radius:50%;
+background-color:blue;
+color:white;}
+
+#discount .shadowss{
+width:90%;
+height:90%;
+box-shadow:4px 4px 4px 4px #eee;
+}
+#dis #lat{color:blue;
+text-align:center;
+font-size:40px;}
+
+#trendsf{
+background-image:url(images/img12.jpg);
+height:80%;
+width:100%;
+margin:0px;
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-position:center;
+position:relative;
+}
+
+#trendsf #heading{
+color:White;
+position:absolute;
+top:10%;
+right:40%;
+font-size:40px;
+
+}
+
+ #buuu{
+	width:100px;
+	height:30px;
+	color:white;
+	background-color:yellow;
+	
+}
+
+#trendsf #design{
+color:White;
+position:absolute;
+top:20%;
+left:30%;
+font-size:60px;
+
+}
+
+#trendsf table{
+	position:absolute;
+top:50%;
+right:45%;
+}
+#footee{
+	width:100%;
+	height:40%;
+	padding-left:60px;
+	background-color:blue;
+}
+#footee #ff1{
+	color:white;
+	width:25%;
+	text-align:center;
+}
+
+.ff2 li{
+	color:white;
+	
+	list-style-type:none;
+}
+.ff2 h1{
+	margin:0px;
+	padding:0px;
+	color:white;
+}
+
+footer{
+	height:40px;
+	background-color:black;
+}
+footer p{
+	padding-top:10px;
+	text-align:center;
+	margin:0px;
+	color:white;
+}
